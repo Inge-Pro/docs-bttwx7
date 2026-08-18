@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-arrhhe.saturadar88win.cfd/sitemap.xml
